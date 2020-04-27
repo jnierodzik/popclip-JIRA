@@ -1,7 +1,7 @@
 # popclip-JIRA
 PopClip extenstion to quickly open tickets. To use highlight the JIRA number and click the JIRA icon.
 
-##Installation
+## Installation
 1. Create a folder called `jira`
 2. Download / Clone the files `Config.plist` and `jira.png` into the folder
 3. Modify the Regular Expression and URL for your organization setup
